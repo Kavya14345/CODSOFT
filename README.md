@@ -49,3 +49,4 @@ Chatbot:Farewell! Have a great day!
 - Consider adding sentiment analysis or context-awareness.
 ## License
 This project is licensed under the MIT License. Feel free to use, modify and share it!
+![Screenshot 2024-06-26 184007](https://github.com/Kavya14345/CODSOFT/assets/117656142/0f3d3167-5e29-4f55-b109-f6b966428d80)
