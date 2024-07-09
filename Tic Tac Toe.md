@@ -4,4 +4,4 @@ This repository contains a Python implementation of the classic game Tic-Tac-Toe
 Click here:
 [Form1.cs](https://github.com/Kavya14345/CODSOFT/blob/main/Form1.cs)
 
-
+[Form1.Designer.cs](https://github.com/Kavya14345/CODSOFT/blob/main/Form1.Designer.cs)
